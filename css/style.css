@@ -1,6 +1,6 @@
 body {
 
-	background-color: #bcc475;
+	background-color: #42f445;
 }
 
 #row-1 {
@@ -16,7 +16,7 @@ body {
 	display: flex;
 	justify-content: center;
 	width: 1200px;
-	background-color: #c4a075;
+	background-color: #776249;
 
 
 	
@@ -54,6 +54,7 @@ ul {
    margin-top: 30px;
    height: 50px;
    background-color: #42f445;
+   border-radius: 25px;
 }
 
 ul li {
@@ -64,7 +65,7 @@ ul li {
 ul li a {
 
 	font-size: 18px;
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Lobster', cursive;
 	text-decoration: none;
 	color: #000;
 }
@@ -74,73 +75,73 @@ a:link  {
  text-decoration:none;   
 }   
 
-.Nosotros {
+.Mision {
 
 	font-size: 18px;
-	font-family: 'Josefin Sans', sans-serif;
-	color: #e85f8a;
+	font-family: 'Lobster', cursive;
+	color: #000;
 	text-decoration: none;
 }
 
-.Nosotros:hover {
+.Mision:hover {
 
 	font-size: 18px;
-	font-family: 'Josefin Sans', sans-serif;
-	color: #000;
+	font-family: 'Lobster', cursive;
+	color: #FFF;
 	transition: all 500ms ease;
 	text-decoration: none;
 
 }
 
-.Servicios {
+.Vision {
 
 	font-size: 18px;
-	font-family: 'Josefin Sans', sans-serif;
-	color: #e85f8a;
+	font-family: 'Lobster', cursive;
+	color: #000;
 	text-decoration: none;
 
 }
 
-.Servicios:hover {
+.Vision:hover {
 
 	font-size: 18px;
-	font-family: 'Josefin Sans', sans-serif;
-	color: #000;
+	font-family: 'Lobster', cursive;
+	color: #FFF;
 	transition: all 500ms ease;
 	text-decoration: none;
 }
 
-.Clientes {
+.Proyectos {
 
 	font-size: 18px;
-	font-family: 'Josefin Sans', sans-serif;
-	color: #e85f8a;
+	font-family: 'Lobster', cursive;
+	color: #000;
 	text-decoration: none;
 
 }
 
-.Clientes:hover {
+.Proyectos:hover {
 
 	font-size: 18px;
-	font-family: 'Josefin Sans', sans-serif;
-	color: #000;
+	font-family: 'Lobster', cursive;
+	color: #FFF;
 	transition: all 500ms ease;
 	text-decoration: none;
 }
 
-.Contacto {
+.Donaciones {
 
 	font-size: 18px;
-	font-family: 'Josefin Sans', sans-serif;
-	color: #e85f8a;
+	font-family: 'Lobster', cursive;
+	color: #000;
 	text-decoration: none;
 }
 
-.Contacto:hover {
+.Donaciones:hover {
 
 	font-size: 18px;
-	font-family: 'Josefin Sans', sans-serif;
-	color: #000;
+	font-family: 'Lobster', cursive;
+	color: #FFF;
 	transition: all 500ms ease;
 	text-decoration: none;
 }
@@ -208,7 +209,7 @@ a:link  {
 	font-size: 35px;
 	padding: 0px 10px;
 	text-decoration: none;
-	color: #000;
+	color: #42f445;
 }
 
 .fa-twitter-square:before {
@@ -216,7 +217,7 @@ a:link  {
 	font-size: 35px;
 	padding: 0px 10px;
 	text-decoration: none;
-	color: #000;
+	color: #42f445;
 }
 
 .fa-at:before {
@@ -224,7 +225,7 @@ a:link  {
 	font-size: 35px;
 	padding: 0px 10px;
 	text-decoration: none;
-	color: #000;
+	color: #42f445;
 }
 
 
