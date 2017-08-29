@@ -1,4 +1,230 @@
 body {
 
-	color: #42f445;
+	background-color: #bcc475;
 }
+
+#row-1 {
+
+	width: 100%;
+	height: 300px;
+}
+
+.container {
+
+	height: 100%;
+	color: #FFF;
+	display: flex;
+	justify-content: center;
+	width: 1200px;
+	background-color: #c4a075;
+
+
+	
+}
+
+#logo {
+
+	display: inline-flex;
+	justify-content: center;
+	align-items: flex-end;
+	margin-bottom: 5px;
+	margin-top: 58px;
+}
+
+
+
+#navigation {
+
+	display: flex;
+	justify-content: right;
+	color: transparent;
+	display: flex;
+	width: auto;
+
+}
+
+
+
+ul {
+
+	display: inline-flex;
+	list-style-type: none;
+   text-align: center;
+   align-items: center;
+   margin-top: 30px;
+   height: 50px;
+   background-color: #42f445;
+}
+
+ul li {
+
+	margin: 10px 30px;
+}
+
+ul li a {
+
+	font-size: 18px;
+	font-family: 'Josefin Sans', sans-serif;
+	text-decoration: none;
+	color: #000;
+}
+
+a:link  {
+   
+ text-decoration:none;   
+}   
+
+.Nosotros {
+
+	font-size: 18px;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #e85f8a;
+	text-decoration: none;
+}
+
+.Nosotros:hover {
+
+	font-size: 18px;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #000;
+	transition: all 500ms ease;
+	text-decoration: none;
+
+}
+
+.Servicios {
+
+	font-size: 18px;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #e85f8a;
+	text-decoration: none;
+
+}
+
+.Servicios:hover {
+
+	font-size: 18px;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #000;
+	transition: all 500ms ease;
+	text-decoration: none;
+}
+
+.Clientes {
+
+	font-size: 18px;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #e85f8a;
+	text-decoration: none;
+
+}
+
+.Clientes:hover {
+
+	font-size: 18px;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #000;
+	transition: all 500ms ease;
+	text-decoration: none;
+}
+
+.Contacto {
+
+	font-size: 18px;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #e85f8a;
+	text-decoration: none;
+}
+
+.Contacto:hover {
+
+	font-size: 18px;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #000;
+	transition: all 500ms ease;
+	text-decoration: none;
+}
+ /* MAIN */
+
+ #row-2 {
+
+	height: 200px;
+	width: 100%;
+	position: relative;
+}
+
+
+
+
+#img-bck {
+
+	background-image: url("RUTAIMG");
+	background-repeat: no-repeat;
+    background-color: transparent;
+    height: 200px;
+  	margin: 10px 10px;
+  	display: flex;
+}
+
+/*FOOTER*/
+
+
+#row-3 {
+
+	height: 200px;
+	width: 100%;
+	margin-top: 100px;
+	
+}
+
+#footer {
+
+	height: 100%;
+	width: 100%;
+	display: flex;
+}
+
+
+#logo-container {
+
+	width: 15%;
+	margin-left: 170px;
+	margin-top: 75px;
+	
+}
+
+#redes {
+
+	background-color: transparent;
+	height: 50px;
+	width: 200px;
+	margin-top: 75px;
+	margin-left: 350px;
+	display: flex;
+}
+
+.fa-facebook-official:before {
+
+	font-size: 35px;
+	padding: 0px 10px;
+	text-decoration: none;
+	color: #000;
+}
+
+.fa-twitter-square:before {
+
+	font-size: 35px;
+	padding: 0px 10px;
+	text-decoration: none;
+	color: #000;
+}
+
+.fa-at:before {
+
+	font-size: 35px;
+	padding: 0px 10px;
+	text-decoration: none;
+	color: #000;
+}
+
+
