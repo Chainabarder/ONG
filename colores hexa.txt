@@ -1,0 +1,11 @@
+Valores hexadecimales de los colores
+
+
+Violeta: #5f2163
+Verde agua: #009999
+Naranja: #f68c1f 
+
+
+Celeste: 589496
+    Naranja: d88e00
+    Violeta: 50155b
