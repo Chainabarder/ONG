@@ -12,7 +12,7 @@ body {
 .container {
 
 	height: 300px;
-	color: #FFF;
+	
 	display: flex;
 	width: 1200px;
 	background-color: #FFF;
@@ -148,106 +148,40 @@ a:link  {
 	transition: all 500ms ease;
 	text-decoration: none;
 }
- /* MAIN */
+
+/* MAIN */
 
  #row-2 {
 
-	height: 550px;
+	height: 700px;
 	width: 100%;
 	position: relative;
 }
 
 main {
 
-	height: 600px;
+	height: 700px;
 }
 
 #main-wrapper {
 
-	height: 600px;
+	height: 700px;
 }
-
-#img-bck {
-	height: 300px;
-	margin-left: 90px;
-	margin-top: 30px;
-}
-
-/*SLIDER*/
 
 h1 {
-  color: #f68c1f;
-  text-align: center;
-  font-weight: 300;
-  font-family: 'Lobster', cursive;
-  font-size: 45px;
+
+	color: #FFF;
+	background-color: #f68c1f;
+	font-family: 'Lobster', cursive;
+	width: 30%;
+	text-align: center;
 }
 
-.slider-holder
-        {
-            width: 800px;
-            height: 400px;
-            background-color: yellow;
-            margin-left: auto;
-            margin-right: auto;
-            margin-top: 0px;
-            text-align: center;
-            overflow: hidden;
-        }
-        
-        .image-holder
-        {
-            width: 2400px;
-            background-color: red;
-            height: 400px;
-            clear: both;
-            position: relative;
-            
-            -webkit-transition: left 2s;
-            -moz-transition: left 2s;
-            -o-transition: left 2s;
-            transition: left 2s;
-        }
-        
-        .slider-image
-        {
-            float: left;
-            margin: 0px;
-            padding: 0px;
-            position: relative;
-            height: 400px;
-            width: 400px;
-        }
-        
-        #slider-image-1:target ~ .image-holder
-        {
-            left: 0px;
-        }
-        
-        #slider-image-2:target ~ .image-holder
-        {
-            left: -800px;
-        }
-        
-        #slider-image-3:target ~ .image-holder
-        {
-            left: -1600px;
-        }
-        
-        .button-holder
-        {
-            position: relative;
-            top: -20px;
-        }
-        
-        .slider-change
-        {
-            display: inline-block;
-            height: 10px;
-            width: 10px;
-            border-radius: 5px;
-            background-color: brown;
-        }
+#Becas img {
+
+	margin-left: 250px;
+	margin-top: 75px;
+}
 
 
 /*FOOTER*/
@@ -257,6 +191,7 @@ h1 {
 
 	height: 200px;
 	width: 100%;
+	
 	
 	
 }
@@ -284,11 +219,8 @@ footer {
 	width: 15%;
 	margin-left: 180px;
 	margin-bottom: 100px;
-	}
 
-
-
-
+}
 
 #redes {
 
@@ -323,5 +255,3 @@ footer {
 	text-decoration: none;
 	color: #009999;
 }
-
-
