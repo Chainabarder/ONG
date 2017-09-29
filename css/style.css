@@ -53,8 +53,7 @@
 	   text-align: center;
 	   align-items: baseline;
 	   margin-top: 130px;
-	   margin-left: 15px;
-
+	   padding: 0px;
 	   height: 140px;
 	   background-color: transparent;
 	   border-radius: 25px;
@@ -62,7 +61,7 @@
 
 	ul li {
 
-		margin: 20px 25px;
+		margin: 20px 20px;
 	}
 
 	ul li a {
@@ -94,24 +93,6 @@
 		transition: all 500ms ease;
 		text-decoration: none;
 
-	}
-
-	.Vision {
-
-		font-size: 25px;
-		font-family: 'Lobster', cursive;
-		color: #5f2163;
-		text-decoration: none;
-
-	}
-
-	.Vision:hover {
-
-		font-size: 27px;
-		font-family: 'Lobster', cursive;
-		color: #009999;
-		transition: all 500ms ease;
-		text-decoration: none;
 	}
 
 	.Becas {
@@ -148,6 +129,45 @@
 		transition: all 500ms ease;
 		text-decoration: none;
 	}
+
+	.Nosotros {
+
+		font-size: 25px;
+		font-family: 'Lobster', cursive;
+		color: #5f2163;
+		text-decoration: none;
+
+	}
+
+	.Nosotros:hover {
+
+		font-size: 27px;
+		font-family: 'Lobster', cursive;
+		color: #009999;
+		transition: all 500ms ease;
+		text-decoration: none;
+	}
+
+	.Contacto {
+
+		font-size: 25px;
+		font-family: 'Lobster', cursive;
+		color: #5f2163;
+		text-decoration: none;		
+
+	}
+
+
+	.Contacto:hover {
+
+		font-size: 27px;
+		font-family: 'Lobster', cursive;
+		color: #009999;
+		transition: all 500ms ease;
+		text-decoration: none;
+	}
+
+
 	 /* MAIN */
 
 	 #row-2 {
