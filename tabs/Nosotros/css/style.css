@@ -7,12 +7,13 @@ body {
 
 	width: 100%;
 	height: 200px;
+	display: flex;
 }
 
 .container {
 
 	height: 300px;
-	color: #FFF;
+	margin: 0px 64px;
 	display: flex;
 	width: 1200px;
 	background-color: #FFF;
@@ -27,20 +28,23 @@ header {
 #logo {
 
 	display: inline-flex;
-	justify-content: center;
-	align-items: flex-end;
+	justify-content: left;
+	flex: 1;
+	margin-left: 100px;
+	width: 4400px;
 	
 }
 
 #navigation {
 
-	display: flex;
+	flex: 1;
 	justify-content: right;
 	color: transparent;
-	display: flex;
 	width: auto;
 
 }
+
+
 
 ul {
 
@@ -49,8 +53,8 @@ ul {
    text-align: center;
    align-items: baseline;
    margin-top: 130px;
-   margin-left: 15px;
-
+   margin-right: 80px;
+   padding: 0px;
    height: 140px;
    background-color: transparent;
    border-radius: 25px;
@@ -145,7 +149,7 @@ a:link  {
 	text-decoration: none;
 }
 
-.Nosotros {
+	.Nosotros {
 
 		font-size: 25px;
 		font-family: 'Lobster', cursive;
@@ -154,7 +158,7 @@ a:link  {
 
 	}
 
-.Nosotros:hover {
+	.Nosotros:hover {
 
 		font-size: 27px;
 		font-family: 'Lobster', cursive;
@@ -163,7 +167,7 @@ a:link  {
 		text-decoration: none;
 	}
 
-.Contacto {
+	.Contacto {
 
 		font-size: 25px;
 		font-family: 'Lobster', cursive;
@@ -173,7 +177,7 @@ a:link  {
 	}
 
 
-.Contacto:hover {
+	.Contacto:hover {
 
 		font-size: 27px;
 		font-family: 'Lobster', cursive;
@@ -182,94 +186,43 @@ a:link  {
 		text-decoration: none;
 	}
 
+
 /* MAIN */
 
  #row-2 {
 
-	height: 550px;
+	height: 1600px;
 	width: 100%;
 	position: relative;
-	margin-top: 50px;
 }
 
 main {
 
-	height: 1600px;
+	height: 700px;
 }
 
 #main-wrapper {
 
-	height: 1975px;
+	height: 1600px;
 }
 
+#Historia h1 {
 
-h1 {
-
-color: #FFF;
-background-color: #f68c1f;
-width: 25%;
-font-family: 'Lobster', cursive;
-text-align: center;
-}
-
-
-p {
-
-color: #f68c1f;
-font-family: 'Roboto', sans-serif;
-font-size: 18px;
-}
-
-#Quienes h1 {
-
-
-	font-family: 'Lobster', cursive;
-	background-color: #f68c1f;
 	color: #FFF;
+	background-color: #f68c1f;
+	font-family: 'Lobster', cursive;
 	width: 25%;
 	text-align: center;
-}
-
-#Quienes img {
-
-	height: auto;
-    max-width: 100%;
-	margin-left: 275px;
-	margin-top: 50px;
-	cursor: pointer;
-    transition: -webkit-transform 0.1s ease
-}
-   
-   img:focus {
-        -webkit-transform: scale(1.5);
-        -ms-transform: scale(1.5);
-    }
-
-
-#Quienes p {
-
-	
-	color: #f68c1f;
-	font-size: 18px;
-	text-align: center;
-	margin-top: 100px;
-	font-family: 'Roboto', sans-serif;	
-}
-
-#Historia {
-
-margin-top: 50px;
 
 }
 
 #Historia p {
-	
+
 	color: #f68c1f;
-	font-size: 18px;
 	text-align: center;
-	margin-top: 25px;
-	font-family: 'Roboto', sans-serif;	
+	margin: 15px 50px;
 }
+
 
 
 /*FOOTER*/
@@ -279,17 +232,20 @@ margin-top: 50px;
 
 	height: 200px;
 	width: 100%;
+	
+	
+	
 }
 
 #footer-wrapper {
 
 	height: 100px;
-	margin-top: 300px;
+	margin-top: 800px;
 }
 
 #footer {
 
-	height: 10px
+	height: 10px;
 	width: 100%;
 	display: flex;
 }
@@ -304,7 +260,8 @@ footer {
 
 	width: 15%;
 	margin-left: 180px;
-	margin-bottom: 100px;	
+	margin-bottom: 100px;
+
 }
 
 #redes {
@@ -313,7 +270,7 @@ footer {
 	height: 50px;
 	width: 200px;
 	
-	margin-left: 472px;
+	margin-left: 485px;
 	display: flex;
 }
 
