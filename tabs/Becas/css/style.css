@@ -12,7 +12,6 @@ body {
 .container {
 
 	height: 300px;
-	
 	display: flex;
 	width: 1200px;
 	background-color: #FFF;
@@ -21,7 +20,7 @@ body {
 
 header {
 
-	height:260px;
+	height: 260px;
 }
 
 #logo {
@@ -32,8 +31,6 @@ header {
 	
 }
 
-
-
 #navigation {
 
 	display: flex;
@@ -41,10 +38,7 @@ header {
 	color: transparent;
 	display: flex;
 	width: auto;
-
 }
-
-
 
 ul {
 
@@ -53,8 +47,6 @@ ul {
    text-align: center;
    align-items: baseline;
    margin-top: 130px;
-   margin-left: 15px;
-
    height: 140px;
    background-color: transparent;
    border-radius: 25px;
@@ -96,24 +88,6 @@ a:link  {
 
 }
 
-.Vision {
-
-	font-size: 25px;
-	font-family: 'Lobster', cursive;
-	color: #5f2163;
-	text-decoration: none;
-
-}
-
-.Vision:hover {
-
-	font-size: 27px;
-	font-family: 'Lobster', cursive;
-	color: #009999;
-	transition: all 500ms ease;
-	text-decoration: none;
-}
-
 .Becas {
 
 	font-size: 25px;
@@ -149,33 +123,93 @@ a:link  {
 	text-decoration: none;
 }
 
+.Nosotros {
+
+		font-size: 25px;
+		font-family: 'Lobster', cursive;
+		color: #5f2163;
+		text-decoration: none;
+
+	}
+
+	.Nosotros:hover {
+
+		font-size: 27px;
+		font-family: 'Lobster', cursive;
+		color: #009999;
+		transition: all 500ms ease;
+		text-decoration: none;
+	}
+
+	.Contacto {
+
+		font-size: 25px;
+		font-family: 'Lobster', cursive;
+		color: #5f2163;
+		text-decoration: none;		
+
+	}
+
+
+	.Contacto:hover {
+
+		font-size: 27px;
+		font-family: 'Lobster', cursive;
+		color: #009999;
+		transition: all 500ms ease;
+		text-decoration: none;
+	}
+
+
 /* MAIN */
 
  #row-2 {
 
-	height: 700px;
+	height: 2300px;
 	width: 100%;
 	position: relative;
+	padding: 0px;
 }
 
 main {
 
-	height: 700px;
+	height: 2300px;
 }
 
 #main-wrapper {
 
-	height: 700px;
+	height: 2300px;
+	padding: 0px;
 }
 
-h1 {
+#Becas h1 {
 
 	color: #FFF;
 	background-color: #f68c1f;
 	font-family: 'Lobster', cursive;
 	width: 30%;
 	text-align: center;
+	margin-right: 50px;
 }
+
+#Becas h3 {
+
+	font-family: 'Lobster', cursive;
+	color: #FFF;
+	background-color: #f68c1f;
+	width: 30%;
+	text-align: center;
+}
+
+
+#Becas p {
+
+	font-family: 'Roboto', sans-serif;
+	color: #f68c1f;
+	text-align: center;
+	margin: 0px 50px;
+}
+
 
 #Becas img {
 
@@ -255,3 +289,4 @@ footer {
 	text-decoration: none;
 	color: #009999;
 }
+
