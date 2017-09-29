@@ -165,7 +165,7 @@ main {
 
 #main-wrapper {
 
-	height: 1300px;
+	height: 1550px;
 }
 
 h1 {
@@ -182,17 +182,27 @@ h1 {
 
 #Quienes img {
 
+	height: auto;
+    max-width: 100%;
 	margin-left: 275px;
 	margin-top: 50px;
+	cursor: pointer;
+    transition: -webkit-transform 0.1s ease
 }
+   
+   img:focus {
+        -webkit-transform: scale(1.5);
+        -ms-transform: scale(1.5);
+    }
 
-p {
+
+#Quienes p {
 
 	
-	color:#f68c1f;
-	font-size: 16px;
+	color: #f68c1f;
+	font-size: 18px;
 	text-align: center;
-	margin-top: 25px;
+	margin-top: 100px;
 	font-family: 'Roboto', sans-serif;	
 }
 
@@ -201,6 +211,16 @@ p {
 margin-top: 50px;
 
 }
+
+#Historia p {
+	
+	color: #f68c1f;
+	font-size: 18px;
+	text-align: center;
+	margin-top: 25px;
+	font-family: 'Roboto', sans-serif;	
+}
+
 
 
 
@@ -211,7 +231,7 @@ margin-top: 50px;
 
 	height: 200px;
 	width: 100%;
-	margin-top: 30px;
+	margin-top: 250px;
 	
 	
 }
