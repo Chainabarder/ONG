@@ -1,3 +1,4 @@
-Website Name: DaleTuManoWeb
-
+Host: files.000webhost.com
+Username: daletumanoweb
 Password: daletumano111
+Port: 21

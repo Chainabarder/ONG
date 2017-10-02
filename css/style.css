@@ -211,7 +211,7 @@ div#captioned-gallery {
 }
 figure.slider { 
   position: relative; width: 500%;
-  font-size: 0; animation: 20s slidy infinite; 
+  font-size: 0; animation: 30s slidy infinite; 
 }
 figure.slider figure { 
   width: 20%; height: 650px;

@@ -92,24 +92,6 @@
 
 	}
 
-	.Vision {
-
-	font-size: 25px;
-	font-family: 'Lobster', cursive;
-	color: #5f2163;
-	text-decoration: none;
-
-	}
-
-	.Vision:hover {
-
-	font-size: 27px;
-	font-family: 'Lobster', cursive;
-	color: #009999;
-	transition: all 500ms ease;
-	text-decoration: none;
-	}
-
 	.Becas {
 
 	font-size: 25px;
@@ -145,29 +127,55 @@
 	text-decoration: none;
 	}
 
+	.Nosotros {
+
+	font-size: 25px;
+	font-family: 'Lobster', cursive;
+	color: #5f2163;
+	text-decoration: none;
+	}
+
+	.Nosotros:hover {
+
+	font-size: 27px;
+	font-family: 'Lobster', cursive;
+	color: #009999;
+	transition: all 500ms ease;
+	text-decoration: none;
+	}
+
 	/* MAIN */
 
 	#row-2 {
 
-	height: 550px;
+	height: 750px;
 	width: 100%;
 	position: relative;
 	margin-top: 50px;
+	padding: 0px;
 	}
 
 	main {
 
-	height: 600px;
+	height: 800px;
 	}
 
 	#main-wrapper {
 
-	height: 600px;
+	height: 800px;
+	padding: 0px;
 	}
 
 	#Dona {
 
 	margin-top: 75px;
+	}
+
+	.i-2 img {
+
+		margin-left: 290px;
+		margin-top: 35px;
+
 	}
 
 	h1 {
@@ -184,8 +192,9 @@
 
 	color: #f68c1f;
 	font-family: 'Roboto', sans-serif;
-	font-size: 22px;
+	font-size: 18px;
 	margin-top: 40px;
+	padding: 0px 30px;
 	}
 
 	.fa-phone {

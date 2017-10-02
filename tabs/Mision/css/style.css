@@ -186,20 +186,22 @@ a:link  {
 
  #row-2 {
 
-	height: 550px;
+	height: 1000px;
 	width: 100%;
 	position: relative;
 	margin-top: 50px;
+	padding: 0px;
 }
 
 main {
 
-	height: 1600px;
+	height: 1830px;
 }
 
 #main-wrapper {
 
-	height: 1975px;
+	height: 1830px;
+	padding: 0px;
 }
 
 
@@ -218,6 +220,8 @@ p {
 color: #f68c1f;
 font-family: 'Roboto', sans-serif;
 font-size: 18px;
+padding: 0px 30px;
+
 }
 
 #Quienes h1 {
@@ -234,7 +238,7 @@ font-size: 18px;
 
 	height: auto;
     max-width: 100%;
-	margin-left: 275px;
+	margin-left: 310px;
 	margin-top: 50px;
 	cursor: pointer;
     transition: -webkit-transform 0.1s ease
@@ -252,7 +256,7 @@ font-size: 18px;
 	color: #f68c1f;
 	font-size: 18px;
 	text-align: center;
-	margin-top: 100px;
+	margin-top: 130px;
 	font-family: 'Roboto', sans-serif;	
 }
 
@@ -271,6 +275,12 @@ margin-top: 50px;
 	font-family: 'Roboto', sans-serif;	
 }
 
+.i-3 img {
+
+	margin-left: 290px;
+	margin-bottom: 35px;
+}
+
 
 /*FOOTER*/
 
@@ -284,7 +294,7 @@ margin-top: 50px;
 #footer-wrapper {
 
 	height: 100px;
-	margin-top: 300px;
+	
 }
 
 #footer {
