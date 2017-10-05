@@ -76,7 +76,7 @@ body {
 	 text-decoration:none;   
 	}   
 
-	.Mision {
+	.Misión-Visión {
 
 		font-size: 25px;
 		font-family: 'Lobster', cursive;
@@ -84,7 +84,7 @@ body {
 		text-decoration: none;
 	}
 
-	.Mision:hover {
+	.Misión-Visión:hover {
 
 		font-size: 27px;
 		font-family: 'Lobster', cursive;
@@ -314,10 +314,6 @@ font-family: 'Roboto', sans-serif;
 		margin-left: 180px;
 		margin-bottom: 100px;
 		}
-
-
-
-
 
 	#redes {
 
