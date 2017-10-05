@@ -217,7 +217,7 @@ text-align: center;
 
 p {
 
-color: #f68c1f;
+color: #000;
 font-family: 'Roboto', sans-serif;
 font-size: 18px;
 padding: 0px 30px;
@@ -253,7 +253,7 @@ padding: 0px 30px;
 #Quienes p {
 
 	
-	color: #f68c1f;
+	color: #000;
 	font-size: 18px;
 	text-align: center;
 	margin-top: 130px;
@@ -268,7 +268,7 @@ margin-top: 50px;
 
 #Historia p {
 	
-	color: #f68c1f;
+	color: #000;
 	font-size: 18px;
 	text-align: center;
 	margin-top: 25px;
