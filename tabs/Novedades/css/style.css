@@ -147,6 +147,209 @@ body {
 		text-decoration: none;
 	}
 
+.Novedades {
+
+		font-size: 25px;
+		font-family: 'Lobster', cursive;
+		color: #5f2163;
+		text-decoration: none;
+
+	}
+
+.Novedades:hover {
+
+		font-size: 27px;
+		font-family: 'Lobster', cursive;
+		color: #009999;
+		transition: all 500ms ease;
+		text-decoration: none;
+	}
 
 
 	 /* MAIN */
+
+	  #row-2 {
+
+		height: 1700px;
+		width: 100%;
+		position: relative;
+		padding: 0px;
+	}
+
+	main {
+
+		height: 1700px;
+	}
+
+	#main-wrapper {
+
+		height: 1700px;
+		padding: 0px;
+	}
+
+	#Becas h1 {
+
+	font-family: 'Lobster', cursive;
+	color: #FFF;
+	background-color: #f68c1f;
+	width: 40%;
+	text-align: center;
+}
+
+
+#Becas p {
+
+	font-family: 'Roboto', sans-serif;
+	color: #000;
+	text-align: center;
+	margin: 35px 50px;
+}
+
+
+#Becas img {
+
+	margin-left: 285px;
+	margin-top: 50px;
+}
+
+/*SLIDER*/
+
+@keyframes slidy {
+0% { left: 0%; }
+20% { left: 0%; }
+25% { left: -100%; }
+45% { left: -100%; }
+50% { left: -200%; }
+70% { left: -200%; }
+75% { left: -300%; }
+95% { left: -300%; }
+100% { left: -400%; }
+}
+* {
+  box-sizing: border-box;
+}
+body, figure { 
+  margin: 0; background: #f68c1f;
+  font-family: 'Lobster', cursive;
+  font-weight: 100;
+}
+div#captioned-gallery { 
+  width: 100%; overflow: hidden; 
+}
+figure.slider { 
+  position: relative; width: 500%;
+  font-size: 0; animation: 30s slidy infinite; 
+}
+figure.slider figure { 
+  width: 20%; height: 650px;
+  display: inline-block;  position: inherit; 
+}
+figure.slider img { width: 100%; height: auto; }
+figure.slider figure figcaption { 
+  position: absolute; bottom: 0;
+  background: rgba(0,0,0,0.4);
+  color: #fff; width: 100%;
+  font-size: 3rem; padding: .6rem; 
+}
+
+#Slider-box {
+
+
+}
+
+#Slider-box h3 {
+
+font-family: 'Lobster', cursive;
+	color: #FFF;
+	background-color: #f68c1f;
+	width: 40%;
+	text-align: center;
+
+}
+
+#Slider-box p {
+
+font-family: 'Roboto', sans-serif;
+	color: #000;
+	text-align: center;
+	margin: 35px 50px;
+
+}
+
+/* END OF SLIDER */
+
+
+/*FOOTER*/
+
+
+	#row-3 {
+
+		height: 200px;
+		width: 100%;
+		
+		
+	}
+
+	#footer-wrapper {
+
+		height: 100px;
+	}
+
+	#footer {
+
+		height: 10px;
+		width: 100%;
+		display: flex;
+	}
+
+	footer {
+
+		height: 10px;
+	}
+
+
+	#logo-container {
+
+		width: 15%;
+		margin-left: 180px;
+		margin-bottom: 100px;
+		}
+
+
+
+
+
+	#redes {
+
+		background-color: transparent;
+		height: 50px;
+		width: 200px;
+		margin-left: 472px;
+		display: flex;
+	}
+
+	.fa-facebook-official:before {
+
+		font-size: 50px;
+		padding: 0px 10px;
+		text-decoration: none;
+		color: #009999;
+	}
+
+	.fa-twitter-square:before {
+
+		font-size: 50px;
+		padding: 0px 10px;
+		text-decoration: none;
+		color: #009999;
+	}
+
+	.fa-at:before {
+
+		font-size: 50px;
+		padding: 0px 10px;
+		text-decoration: none;
+		color: #009999;
+	}
+
+
