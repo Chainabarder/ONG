@@ -190,7 +190,7 @@
 
 	p {
 
-	color: #f68c1f;
+	color: #000;
 	font-family: 'Roboto', sans-serif;
 	font-size: 18px;
 	margin-top: 40px;
@@ -201,14 +201,14 @@
 
 	font-size: 20px;
 	text-decoration: none;
-	color: #000;
+	color: #f68c1f;
 	}
 
 	.fa-envelope {
 
 	font-size: 20px;
 	text-decoration: none;
-	color: #000;
+	color: #f68c1f;
 	}
 
 
