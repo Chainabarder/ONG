@@ -74,7 +74,7 @@
 	text-decoration:none;   
 	}   
 
-	.Mision {
+	.Misión/Visión {
 
 	font-size: 25px;
 	font-family: 'Lobster', cursive;
@@ -82,7 +82,7 @@
 	text-decoration: none;
 	}
 
-	.Mision:hover {
+	.Misión/Visión:hover {
 
 	font-size: 27px;
 	font-family: 'Lobster', cursive;
@@ -92,7 +92,7 @@
 
 	}
 
-	.Becas {
+	.Programa {
 
 	font-size: 25px;
 	font-family: 'Lobster', cursive;
@@ -101,7 +101,7 @@
 
 	}
 
-	.Becas:hover {
+	.Programa:hover {
 
 	font-size: 27px;
 	font-family: 'Lobster', cursive;
@@ -127,7 +127,7 @@
 	text-decoration: none;
 	}
 
-	.Nosotros {
+	.Historia {
 
 	font-size: 25px;
 	font-family: 'Lobster', cursive;
@@ -135,7 +135,7 @@
 	text-decoration: none;
 	}
 
-	.Nosotros:hover {
+	.Historia:hover {
 
 	font-size: 27px;
 	font-family: 'Lobster', cursive;

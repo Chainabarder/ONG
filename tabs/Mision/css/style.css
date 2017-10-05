@@ -74,7 +74,7 @@ a:link  {
  text-decoration:none;   
 }   
 
-.Mision {
+.Mision/Vision {
 
 	font-size: 25px;
 	font-family: 'Lobster', cursive;
@@ -82,7 +82,7 @@ a:link  {
 	text-decoration: none;
 }
 
-.Mision:hover {
+.Mision/Vision:hover {
 
 	font-size: 27px;
 	font-family: 'Lobster', cursive;
@@ -92,7 +92,7 @@ a:link  {
 
 }
 
-.Vision {
+.Programa {
 
 	font-size: 25px;
 	font-family: 'Lobster', cursive;
@@ -101,25 +101,7 @@ a:link  {
 
 }
 
-.Vision:hover {
-
-	font-size: 27px;
-	font-family: 'Lobster', cursive;
-	color: #009999;
-	transition: all 500ms ease;
-	text-decoration: none;
-}
-
-.Becas {
-
-	font-size: 25px;
-	font-family: 'Lobster', cursive;
-	color: #5f2163;
-	text-decoration: none;
-
-}
-
-.Becas:hover {
+.Programa:hover {
 
 	font-size: 27px;
 	font-family: 'Lobster', cursive;
@@ -145,7 +127,7 @@ a:link  {
 	text-decoration: none;
 }
 
-.Nosotros {
+.Historia {
 
 		font-size: 25px;
 		font-family: 'Lobster', cursive;
@@ -154,7 +136,7 @@ a:link  {
 
 	}
 
-.Nosotros:hover {
+.Historia:hover {
 
 		font-size: 27px;
 		font-family: 'Lobster', cursive;
