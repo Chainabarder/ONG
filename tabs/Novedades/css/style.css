@@ -167,7 +167,7 @@ a:link  {
 
 	  #row-2 {
 
-		height: 1700px;
+		height: 2350px;
 		width: 100%;
 		position: relative;
 		padding: 0px;
@@ -175,12 +175,12 @@ a:link  {
 
 	main {
 
-		height: 1700px;
+		height: 2350px;
 	}
 
 	#main-wrapper {
 
-		height: 1700px;
+		height: 2350px;
 		padding: 0px;
 	}
 
@@ -192,6 +192,16 @@ a:link  {
 	width: 40%;
 	text-align: center;
 }
+
+	#Becas h3 {
+
+	font-family: 'Lobster', cursive;
+	color: #FFF;
+	background-color: #f68c1f;
+	width: 35%;
+	text-align: center;
+
+	}
 
 
 #Becas p {
