@@ -165,7 +165,7 @@ a:link  {
 
  #row-2 {
 
-	height: 1600px;
+	height: 1900px;
 	width: 100%;
 	position: relative;
 }
@@ -177,7 +177,7 @@ main {
 
 #main-wrapper {
 
-	height: 1600px;
+	height: 1900px;
 }
 
 #Historia h1 {
@@ -199,6 +199,13 @@ main {
 	font-family: 'Roboto', sans-serif;
 }
 
+ .img-foot {
+
+	height: auto;
+    max-width: 100%;
+	margin-left: 270px;
+	margin-top: 50px;
+}
 
 
 /*FOOTER*/
@@ -216,7 +223,7 @@ main {
 #footer-wrapper {
 
 	height: 100px;
-	margin-top: 800px;
+	margin-top: 1050px;
 }
 
 #footer {
