@@ -7,13 +7,11 @@ body {
 
 	width: 100%;
 	height: 200px;
-	display: flex;
 }
 
 .container {
 
 	height: 300px;
-	margin: 0px 64px;
 	display: flex;
 	width: 1200px;
 	background-color: #FFF;
@@ -22,29 +20,26 @@ body {
 
 header {
 
-	height:260px;
+	height: 260px;
 }
 
 #logo {
 
 	display: inline-flex;
-	justify-content: left;
-	flex: 1;
-	margin-left: 100px;
-	width: 4400px;
+	justify-content: center;
+	align-items: flex-end;
+	padding: 0px;
 	
 }
 
 #navigation {
 
-	flex: 1;
+	display: flex;
 	justify-content: right;
 	color: transparent;
+	display: flex;
 	width: auto;
-
 }
-
-
 
 ul {
 
@@ -53,8 +48,6 @@ ul {
    text-align: center;
    align-items: baseline;
    margin-top: 130px;
-   margin-right: 80px;
-   padding: 0px;
    height: 140px;
    background-color: transparent;
    border-radius: 25px;
@@ -78,7 +71,7 @@ a:link  {
  text-decoration:none;   
 }   
 
-.Misión/Visión {
+.Misión-Visión {
 
 	font-size: 25px;
 	font-family: 'Lobster', cursive;
@@ -86,7 +79,7 @@ a:link  {
 	text-decoration: none;
 }
 
-.Misión/Visión:hover {
+.Misión-Visión:hover {
 
 	font-size: 27px;
 	font-family: 'Lobster', cursive;
@@ -96,7 +89,7 @@ a:link  {
 
 }
 
-.Becas {
+.Programa {
 
 	font-size: 25px;
 	font-family: 'Lobster', cursive;
@@ -105,7 +98,7 @@ a:link  {
 
 }
 
-.Becas:hover {
+.Programa:hover {
 
 	font-size: 27px;
 	font-family: 'Lobster', cursive;
@@ -149,7 +142,7 @@ a:link  {
 		text-decoration: none;
 	}
 
-	.Contacto {
+	.Novedades {
 
 		font-size: 25px;
 		font-family: 'Lobster', cursive;
@@ -159,7 +152,7 @@ a:link  {
 	}
 
 
-	.Contacto:hover {
+	.Novedades:hover {
 
 		font-size: 27px;
 		font-family: 'Lobster', cursive;
@@ -167,7 +160,6 @@ a:link  {
 		transition: all 500ms ease;
 		text-decoration: none;
 	}
-
 
 /* MAIN */
 

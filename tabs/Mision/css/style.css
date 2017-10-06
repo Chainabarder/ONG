@@ -29,6 +29,7 @@ header {
 	display: inline-flex;
 	justify-content: center;
 	align-items: flex-end;
+	padding: 0px;
 	
 }
 
@@ -74,7 +75,7 @@ a:link  {
  text-decoration:none;   
 }   
 
-.Mision/Vision {
+.Misión-Visión {
 
 	font-size: 25px;
 	font-family: 'Lobster', cursive;
@@ -82,7 +83,7 @@ a:link  {
 	text-decoration: none;
 }
 
-.Mision/Vision:hover {
+.Misión-Visión:hover {
 
 	font-size: 27px;
 	font-family: 'Lobster', cursive;
@@ -145,7 +146,7 @@ a:link  {
 		text-decoration: none;
 	}
 
-.Contacto {
+.Novedades {
 
 		font-size: 25px;
 		font-family: 'Lobster', cursive;
@@ -155,7 +156,7 @@ a:link  {
 	}
 
 
-.Contacto:hover {
+.Novedades:hover {
 
 		font-size: 27px;
 		font-family: 'Lobster', cursive;

@@ -28,6 +28,7 @@ header {
 	display: inline-flex;
 	justify-content: center;
 	align-items: flex-end;
+	padding: 0px;
 	
 }
 
@@ -70,7 +71,7 @@ a:link  {
  text-decoration:none;   
 }   
 
-.Misión/Visión {
+.Misión-Visión {
 
 	font-size: 25px;
 	font-family: 'Lobster', cursive;
@@ -78,7 +79,7 @@ a:link  {
 	text-decoration: none;
 }
 
-.Misión/Visión:hover {
+.Misión-Visión:hover {
 
 	font-size: 27px;
 	font-family: 'Lobster', cursive;
@@ -141,7 +142,7 @@ a:link  {
 		text-decoration: none;
 	}
 
-	.Contacto {
+	.Novedades {
 
 		font-size: 25px;
 		font-family: 'Lobster', cursive;
@@ -151,7 +152,7 @@ a:link  {
 	}
 
 
-	.Contacto:hover {
+	.Novedades:hover {
 
 		font-size: 27px;
 		font-family: 'Lobster', cursive;
@@ -165,7 +166,7 @@ a:link  {
 
  #row-2 {
 
-	height: 2800px;
+	height: 2000px;
 	width: 100%;
 	position: relative;
 	padding: 0px;
@@ -173,12 +174,12 @@ a:link  {
 
 main {
 
-	height: 2800px;
+	height: 2000px;
 }
 
 #main-wrapper {
 
-	height: 2800px;
+	height: 2000px;
 	padding: 0px;
 }
 

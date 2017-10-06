@@ -1,135 +1,130 @@
 body {
 
-		background-color: #f68c1f;
-	}
+	background-color: #f68c1f;
+}
 
-	#row-1 {
+#row-1 {
 
-		width: 100%;
-		height: 200px;
-	}
+	width: 100%;
+	height: 200px;
+}
 
-	.container {
+.container {
 
-		height: 300px;
-		color: #FFF;
-		display: flex;
-		width: 1200px;
-		background-color: #FFF;
-	}
-
-
-	header {
-
-		height:260px;
-	}
-
-	#logo {
-
-		display: inline-flex;
-		justify-content: center;
-		align-items: flex-end;
-		
-	}
+	height: 300px;
+	display: flex;
+	width: 1200px;
+	background-color: #FFF;
+}
 
 
+header {
 
-	#navigation {
+	height: 260px;
+}
 
-		display: flex;
-		justify-content: right;
-		color: transparent;
-		display: flex;
-		width: auto;
+#logo {
 
-	}
+	display: inline-flex;
+	justify-content: center;
+	align-items: flex-end;
+	padding: 0px;
+	
+}
 
+#navigation {
 
+	display: flex;
+	justify-content: right;
+	color: transparent;
+	display: flex;
+	width: auto;
+}
 
-	ul {
+ul {
 
-		display: inline-flex;
-		list-style-type: none;
-	   text-align: center;
-	   align-items: baseline;
-	   margin-top: 130px;
-	   padding: 0px;
-	   height: 140px;
-	   background-color: transparent;
-	   border-radius: 25px;
-	}
+	display: inline-flex;
+	list-style-type: none;
+   text-align: center;
+   align-items: baseline;
+   margin-top: 130px;
+   height: 140px;
+   background-color: transparent;
+   border-radius: 25px;
+}
 
-	ul li {
+ul li {
 
-		margin: 20px 20px;
-	}
+	margin: 20px 25px;
+}
 
-	ul li a {
+ul li a {
 
-		font-size: 25px;
-		font-family: 'Lobster', cursive;
-		
-	}
+	font-size: 25px;
+	font-family: 'Lobster', cursive;
+	text-decoration: none;
+	color: #f68c1f;
+}
 
-	a:link  {
-	   
-	 text-decoration:none;   
-	}   
+a:link  {
+   
+ text-decoration:none;   
+}   
 
-	.Misión-Visión {
+.Misión-Visión {
 
-		font-size: 25px;
-		font-family: 'Lobster', cursive;
-		color: #5f2163;
-		text-decoration: none;
-	}
+	font-size: 25px;
+	font-family: 'Lobster', cursive;
+	color: #5f2163;
+	text-decoration: none;
+}
 
-	.Misión-Visión:hover {
+.Misión-Visión:hover {
 
-		font-size: 27px;
-		font-family: 'Lobster', cursive;
-		color: #009999;
-		transition: all 500ms ease;
-		text-decoration: none;
+	font-size: 27px;
+	font-family: 'Lobster', cursive;
+	color: #009999;
+	transition: all 500ms ease;
+	text-decoration: none;
 
-	}
+}
 
-	.Becas {
+.Programa {
 
-		font-size: 25px;
-		font-family: 'Lobster', cursive;
-		color: #5f2163;
-		text-decoration: none;
+	font-size: 25px;
+	font-family: 'Lobster', cursive;
+	color: #5f2163;
+	text-decoration: none;
 
-	}
+}
 
-	.Becas:hover {
+.Programa:hover {
 
-		font-size: 27px;
-		font-family: 'Lobster', cursive;
-		color: #009999;
-		transition: all 500ms ease;
-		text-decoration: none;
-	}
+	font-size: 27px;
+	font-family: 'Lobster', cursive;
+	color: #009999;
+	transition: all 500ms ease;
+	text-decoration: none;
+}
 
-	.Donaciones {
+.Donaciones {
 
-		font-size: 25px;
-		font-family: 'Lobster', cursive;
-		color: #5f2163;
-		text-decoration: none;
-	}
+	font-size: 25px;
+	font-family: 'Lobster', cursive;
+	color: #5f2163;
+	text-decoration: none;
+}
 
-	.Donaciones:hover {
+.Donaciones:hover {
 
-		font-size: 27px;
-		font-family: 'Lobster', cursive;
-		color: #009999;
-		transition: all 500ms ease;
-		text-decoration: none;
-	}
+	font-size: 27px;
+	font-family: 'Lobster', cursive;
+	color: #009999;
+	transition: all 500ms ease;
+	text-decoration: none;
+}
 
-	.Nosotros {
+	.Historia {
 
 		font-size: 25px;
 		font-family: 'Lobster', cursive;
@@ -138,7 +133,7 @@ body {
 
 	}
 
-	.Nosotros:hover {
+	.Historia:hover {
 
 		font-size: 27px;
 		font-family: 'Lobster', cursive;
@@ -147,16 +142,17 @@ body {
 		text-decoration: none;
 	}
 
-.Novedades {
+	.Novedades {
 
 		font-size: 25px;
 		font-family: 'Lobster', cursive;
 		color: #5f2163;
-		text-decoration: none;
+		text-decoration: none;		
 
 	}
 
-.Novedades:hover {
+
+	.Novedades:hover {
 
 		font-size: 27px;
 		font-family: 'Lobster', cursive;
@@ -164,6 +160,7 @@ body {
 		transition: all 500ms ease;
 		text-decoration: none;
 	}
+
 
 
 	 /* MAIN */
