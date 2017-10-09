@@ -1,6 +1,6 @@
 body {
 
-	background-color: #f68c1f;
+	background-image: url("../img/fond1.png");
 }
 
 #row-1 {
@@ -186,7 +186,7 @@ main {
 #Becas h1 {
 
 	color: #FFF;
-	background-color: #f68c1f;
+	background-color: #5f2163;
 	font-family: 'Lobster', cursive;
 	width: 30%;
 	text-align: center;
@@ -200,6 +200,38 @@ main {
 	background-color: #f68c1f;
 	width: 30%;
 	text-align: center;
+	margin-top: 35px;
+}
+
+#Caja h3 {
+
+	color: #FFF;
+	background-color: #5f2163;
+	font-family: 'Lobster', cursive;
+	width: 30%;
+	text-align: center;
+	margin-right: 50px;
+}
+
+#Tutorias h3 {
+
+	color: #FFF;
+	background-color: #5f2163;
+	font-family: 'Lobster', cursive;
+	width: 30%;
+	text-align: center;
+	margin-right: 50px;
+}
+
+#Talleres h3 {
+
+	color: #FFF;
+	background-color: #009999;
+	font-family: 'Lobster', cursive;
+	width: 30%;
+	text-align: center;
+	margin-right: 50px;
+	
 }
 
 

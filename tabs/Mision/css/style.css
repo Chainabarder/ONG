@@ -1,6 +1,6 @@
 body {
 
-	background-color: #f68c1f;
+	background-image: url("../img/fond1.png");
 }
 
 #row-1 {
@@ -21,7 +21,7 @@ body {
 
 header {
 
-	height:260px;
+	height:281px;
 }
 
 #logo {
@@ -204,6 +204,12 @@ color: #000;
 font-family: 'Roboto', sans-serif;
 font-size: 18px;
 padding: 0px 30px;
+
+}
+
+#QueCaracteriza h1 {
+
+	background-color: #5f2163;
 
 }
 

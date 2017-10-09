@@ -1,6 +1,6 @@
 	body {
 
-background-image: url("../imgs/fond4.png");
+background-image: url("../imgs/fond1.png");
 	
 }
 
@@ -220,7 +220,7 @@ a:link  {
   box-sizing: border-box;
 }
 body, figure { 
-  margin: 0; background-image: url("../imgs/fond4.png");
+  margin: 0; background-image: url("../imgs/fond1.png");
   font-family: 'Lobster', cursive;
   font-weight: 100;
 }

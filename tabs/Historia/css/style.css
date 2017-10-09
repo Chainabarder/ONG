@@ -1,6 +1,6 @@
 body {
 
-	background-color: #f68c1f;
+	background-image: url("../img/fond1.png");
 }
 
 #row-1 {
@@ -168,6 +168,7 @@ a:link  {
 	height: 1900px;
 	width: 100%;
 	position: relative;
+	padding: 0px;
 }
 
 main {
@@ -178,12 +179,13 @@ main {
 #main-wrapper {
 
 	height: 1900px;
+	padding: 0px;
 }
 
 #Historia h1 {
 
 	color: #FFF;
-	background-color: #f68c1f;
+	background-color: #5f2163;
 	font-family: 'Lobster', cursive;
 	width: 25%;
 	text-align: center;
