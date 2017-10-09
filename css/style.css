@@ -1,6 +1,7 @@
 	body {
 
-	background-color: #f68c1f;
+background-image: url("../imgs/fond4.png");
+	
 }
 
 #row-1 {
@@ -219,7 +220,7 @@ a:link  {
   box-sizing: border-box;
 }
 body, figure { 
-  margin: 0; background: #f68c1f;
+  margin: 0; background-image: url("../imgs/fond4.png");
   font-family: 'Lobster', cursive;
   font-weight: 100;
 }
@@ -238,7 +239,7 @@ figure.slider img { width: 100%; height: auto; }
 figure.slider figure figcaption { 
   position: absolute; bottom: 0;
   background: rgba(0,0,0,0.4);
-  color: #fff; width: 100%;
+  color: #f68c1f; width: 100%;
   font-size: 3rem; padding: .6rem; 
 }
 
